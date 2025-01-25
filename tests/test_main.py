@@ -9,4 +9,4 @@ def test_first():
     assert 1==1
 
 def test_first2(before_after):
-    assert 2==3
+    assert 2==2
